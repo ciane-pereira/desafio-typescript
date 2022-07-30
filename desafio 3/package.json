@@ -1,0 +1,17 @@
+{
+  "name": "desafio-1",
+  "version": "1.0.0",
+  "description": "Desafio i typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.7.4"
+  }
+}
